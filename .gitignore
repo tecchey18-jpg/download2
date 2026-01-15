@@ -1,0 +1,4 @@
+backend/downloads/
+backend/cookies/
+node_modules/
+.env
